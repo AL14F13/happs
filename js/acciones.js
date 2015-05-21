@@ -1,5 +1,5 @@
 // JavaScript Document
-$(document).ready(function(e) {
+//$(document).ready(function(e) {
 document.addEventListener("deviceready",function(){
 	
 
@@ -48,7 +48,7 @@ fecha_actual = new Date (fecha_actual.getFullYear(),fecha_actual.getMonth(),fech
 	    $('#txtmes').val('');
 	    $('#txtaño').val('');
 		
-	});
+	//});
 	
 		 
 
